@@ -59,14 +59,6 @@
   width: 33%;
 }
 
-/* .bottom-divs:not(:last-child) {
-  margin: 5px;
-}
-
-.bottom-divs:not(:first-child) {
-  margin: 5px;
-} */
-
 @media(max-width:767px){
   .col-2 {
     background-color: aqua;
