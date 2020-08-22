@@ -42,6 +42,31 @@
   height: 200px;
 }
 
+.last-row{
+  padding: 10px;
+}
+
+.bottom-divs {
+  margin: 0px !important;
+}
+
+.bottom-divs.last-center-div {
+  margin-left: 3px !important;
+  margin-right: 3px !important;
+}
+
+.col-sm-4.bottom-divs {
+  width: 33%;
+}
+
+/* .bottom-divs:not(:last-child) {
+  margin: 5px;
+}
+
+.bottom-divs:not(:first-child) {
+  margin: 5px;
+} */
+
 @media(max-width:767px){
   .col-2 {
     background-color: aqua;
