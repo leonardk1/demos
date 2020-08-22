@@ -1,0 +1,22 @@
+.main-container {
+  background: url(bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.form-header {
+  color: white;
+}
+.form-container{
+  background-color: purple;
+  opacity: 0.65;
+}
+
+.sign-up-form  h2{
+  color: white;
+}
+
+.sign-up-form input {
+  background-color: white;
+}
